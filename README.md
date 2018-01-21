@@ -9,5 +9,5 @@ General steps
 5. upload to this github
 6. clone back to my google cloud
 7. run the jupyter notebook
-8. experiment with batch size since teh images are not a lot
+8. experiment with batch size since the images are not a lot
 9. also experiment with data augmentation, and the settings for the learn including annealing and differential learning rate
